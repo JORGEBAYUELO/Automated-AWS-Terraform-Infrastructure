@@ -1,3 +1,4 @@
+# AWS Infrastructure Automation with Terraform
 
 This project automates the setup of a basic AWS infrastructure using Terraform. It provisions an Amazon EC2 instance running NGINX, secures it with a security group, and uses S3 for state management with DynamoDB for state locking.
 
